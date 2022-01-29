@@ -6,6 +6,9 @@ const Home = () => {
             <div className="home-parent">
                 <div className="home-details">
                     <div className="colz">
+                        <a href="#">
+                            <i className="fa fa-facebook-aquare"></i>
+                        </a>
 
                     </div>
 
