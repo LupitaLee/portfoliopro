@@ -9,6 +9,9 @@ const Home = () => {
                         <a href="#">
                             <i className="fa fa-facebook-aquare"></i>
                         </a>
+                        <a href="#">
+                            <i className="fa fa-google-plus-aquare"></i>
+                        </a>
 
                     </div>
 
